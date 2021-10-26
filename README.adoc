@@ -1,5 +1,4 @@
-= Modélisation et Programmation Avancée : TP 2 Exercice 1, notions de
-bases, orienté objet et héritage
+= Modélisation et Programmation Avancée : TP 2 Exercice 1, notions de bases, orienté objet et héritage
 Stéphane Dupont <stephane.dupont@umons.ac.be>
 2021-10-26
 
